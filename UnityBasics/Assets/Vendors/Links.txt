@@ -1,0 +1,6 @@
+Nazwa na AssetStore	| nazwa głównego folderu w projekcie (w folderze Vendors)
+RPG Poly Pack - Lite	| RPGPP_LT
+Monster&&LowPloygon Mobile_Dog	| LowPoly_Magmadar
+Barbarian warrior		| Barbarian
+Free Trees		| Darth_Artisan
+POLYDesert		| Runemark Studio
